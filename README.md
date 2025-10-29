@@ -18,7 +18,19 @@ STEP 4:Apply the various data visualization tools wherever necessary.
 STEP 5:Include Necessary parameters in each functions.
 
 # Coding and Output:
- Include the necessary coding and corresponding screenshots
+
+<img width="1417" height="378" alt="image" src="https://github.com/user-attachments/assets/5cbb86b6-ea1e-40af-9f46-98787342dcdb" />
+<img width="832" height="646" alt="image" src="https://github.com/user-attachments/assets/7f761539-ed8c-4bdc-88ec-e60f621fb8c6" />
+<img width="767" height="730" alt="image" src="https://github.com/user-attachments/assets/6f92b02e-3c24-43fa-80e2-6bb811b4309c" />
+<img width="1447" height="785" alt="image" src="https://github.com/user-attachments/assets/e8fec287-14a7-489f-bc69-3b8a42914e3b" />
+<img width="828" height="627" alt="image" src="https://github.com/user-attachments/assets/f37866bc-cb38-4027-b5b3-ed09606938c5" />
+<img width="942" height="635" alt="image" src="https://github.com/user-attachments/assets/8e9a272c-afa8-438e-af14-58c108d9d264" />
+<img width="819" height="583" alt="image" src="https://github.com/user-attachments/assets/09183fd1-b5dc-4a13-ae1d-c3e92b9d49e3" />
+<img width="1441" height="753" alt="image" src="https://github.com/user-attachments/assets/2e55d768-d10c-4744-bd7b-84aa6fc417c6" />
+<img width="908" height="630" alt="image" src="https://github.com/user-attachments/assets/4c2b364a-29ce-403a-94d2-2262c66bee7a" />
+<img width="975" height="757" alt="image" src="https://github.com/user-attachments/assets/cf029b76-901c-400a-89f9-465b1312f383" />
+<img width="831" height="733" alt="image" src="https://github.com/user-attachments/assets/65de35b8-e07d-4d42-b856-283d96ff4100" />
+
 
 # Result:
- Include your result here
+ Thus, the Data Visualization using seaborn python library for the given data is implemented successfully.
